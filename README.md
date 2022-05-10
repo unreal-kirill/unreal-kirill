@@ -1,7 +1,4 @@
-- Hi, I’m @unreal-kirill
-- I’m interested in programming
-- I’m currently learning html(?)
-- I’m not looking to collaborate on anything
+- Hi, I am @unreal-kirill. I am currently learning how to build websites with HTML.
 
 <!---
 unreal-kirill/unreal-kirill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
