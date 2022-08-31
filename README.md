@@ -1,1 +1,1 @@
-- Hi, I am @unreal-kirill. I am currently trying myself in website building.
+- Hi, I am @unreal-kirill. I am currently learning android apps developing.
